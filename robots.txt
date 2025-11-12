@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mayarkhaled35-cyber.github.io/name-/sitemap.xml
